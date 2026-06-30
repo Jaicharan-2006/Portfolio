@@ -1,0 +1,7 @@
+/* Root Index CSS */
+@import './styles/variables.css';
+@import './styles/globals.css';
+@import './styles/glass.css';
+@import './styles/neumorphism.css';
+@import './styles/animations.css';
+@import './styles/scrollbar.css';

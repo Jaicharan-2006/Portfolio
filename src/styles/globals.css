@@ -1,0 +1,12 @@
+:root {
+  --bg-primary: #08111f;
+  --bg-secondary: #101a2d;
+  --glass-bg: rgba(255,255,255,0.08);
+  --glass-border: rgba(255,255,255,0.15);
+
+  --text-primary: #ffffff;
+  --text-secondary: #bfc8d8;
+
+  --accent: #00e5ff;
+  --accent2: #7c3aed;
+}
