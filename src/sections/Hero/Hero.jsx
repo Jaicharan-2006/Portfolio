@@ -46,18 +46,20 @@ export default function Hero() {
     View Projects
   </button>
 
+ <a href="/Jaicharan M.pdf" download>
   <button
     className="
-    neu
-    px-8
-    py-4
-    rounded-full
-    hover:scale-105
-    duration-300
-  "
+      neu
+      px-8
+      py-4
+      rounded-full
+      hover:scale-105
+      duration-300
+    "
   >
     Download Resume
   </button>
+</a>
 </div>
     </section>
   );
