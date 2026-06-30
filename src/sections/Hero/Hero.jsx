@@ -46,7 +46,7 @@ export default function Hero() {
     View Projects
   </button>
 
- <a href="/Jaicharan M.pdf" download>
+ <a href="/Jaicharan_M_Resume.pdf" download>
   <button
     className="
       neu
