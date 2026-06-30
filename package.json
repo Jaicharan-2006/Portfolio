@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tsparticles/react": "^4.2.1",
+    "@tsparticles/engine": "^4.3.0",
+    "@tsparticles/react": "^4.3.0",
+    "@tsparticles/slim": "^4.3.0",
     "axios": "^1.18.1",
     "framer-motion": "^12.41.0",
     "gsap": "^3.15.0",
@@ -22,8 +24,7 @@
     "react-parallax-tilt": "^1.7.333",
     "react-simple-typewriter": "^5.0.1",
     "react-toastify": "^11.1.0",
-    "react-tsparticles": "^2.12.2",
-    "tsparticles": "^4.2.1"
+    "tsparticles": "^4.3.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^6.0.3",
